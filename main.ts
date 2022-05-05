@@ -6,7 +6,6 @@ controller.combos.attachCombo("UDLRRLDUABAB", function () {
         music.buzzer.play()
         scene.setBackgroundColor(2)
         scene.setBackgroundColor(2)
-        scene.setBackgroundColor(2)
     }
 })
 let CHEAT_CODE_1 = 0
